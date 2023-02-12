@@ -1,1 +1,2 @@
 # Processor-Execution-Simulator
+This project involves building a processor execution simulator where tasks are assigned to processors in a queue. The number of processors and total clock cycles are defined as input arguments, as well as a text file describing task information (creation time, execution time, priority). The scheduler prioritizes task assignments based on priority and execution time. The output of the simulation is a cycle-by-cycle report of important events, including task creation, assignment, and completion. The project was built using Java
